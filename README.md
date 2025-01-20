@@ -22,8 +22,6 @@ Controls
 - service shutdown (shuts down every service (temporarily until next boot))
 - Prevents windows FROM FUCKING INSTALL EDGE EVERY UPDATE
 
-(features)
-- Every time you install a app or is a new app created it will popup with a request for example if the app wants to access the microphone it will show like a administrator prompt but instead asks the user to either allow or deny the microphone usage request same with files
 
 ---
 - how to install
