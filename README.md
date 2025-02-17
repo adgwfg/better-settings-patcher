@@ -1,5 +1,7 @@
 # better-settings-patcher
 adds stuff in settings that you should not have access to
+
+#this project will be moved to another called matte windoss
 --------
 # coming soon
 
